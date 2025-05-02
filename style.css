@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 20px; background: #f9f9f9; color: #333; }
+h1 { color: #2b3e51; }
+nav ul { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 15px; }
+nav a { text-decoration: none; color: #007acc; font-weight: bold; }
+header { background: #e8f5e9; padding: 20px; text-align: center; }
